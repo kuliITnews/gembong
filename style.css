@@ -1,0 +1,43 @@
+/* Floating Alert */
+.alert-padding {
+  margin-top: 60px;
+}
+.alert {
+  z-index: 50;
+  position: absolute;
+}
+
+/* Carousel */
+input[type="text"],
+.txtarea {
+  margin-bottom: 10px;
+}
+
+.banner-content {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+.carousel {
+  margin-top: 60px;
+}
+/* Maps */
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+/* Surat */
+.padding-surat {
+  margin-top: 60px;
+}
